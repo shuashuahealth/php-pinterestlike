@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #CCCCCC;	
+	
+	
+	}
+	
+	
+	
+	.fontsize{
+		font-size:20px;
+		}
+	
+	
+	form {
+	background-color: #FFF;
+	margin-top: 10%;
+	margin-left: 35%;
+	margin-bottom: 40%;
+	margin-right: 35%;
+	border-spacing: 5px 5px;
+	height: 507px;
+	border-radius: 10px;
+	
+}
+.back{
+
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-right:50px;
+	
+	}
+.h1class{
+	padding-top: 40px;
+	padding-left: 50px;
+	}
+.firstname{
+	padding-left: 10px;
+	width: 184px;
+	border-radius: 5px;
+	height: 56px;
+	margin-left: 50px;
+	background-color: #CCCCCC;
+	font-size:20px;
+	
+	}
+	.lastname{
+	padding-left: 10px;
+	width: 184px;
+	border-radius: 5px;
+	height: 56px;
+	font-size:20px;
+	margin-left: 10px;	
+		background-color: #CCCCCC;	
+	}
+.email{
+	padding-left: 10px;
+	width: 398px;
+	border-radius: 5px;
+	height: 56px;
+	font-size:20px;
+	margin-left: 50px;
+	padding-top: 0px;
+	margin-top: 10px;
+		background-color: #CCCCCC;	
+	}
+.password{
+	padding-left: 10px;
+	width: 398px;
+	border-radius: 5px;
+	height: 56px;
+	font-size:20px;
+	margin-left: 50px;
+	padding-top: 0px;
+	margin-top: 10px;
+		background-color: #CCCCCC;	
+	}	
+.country{
+	padding-left: 10px;
+	font-size:20px;
+	height: 37px;
+	width: 412px;
+	margin-top: 10px;
+	margin-left: 50px;
+	border-radius: 5px;
+	background-color: #CCCCCC;	
+	}
+.gender{
+	font-size:20px;
+	color: #666666;
+	}
+.bottom{
+	margin-top: 20px;
+	background-color: #CCCCFF;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding-bottom: 50px;	
+	}
+.button{
+	width: 88px;
+	height: 42px;
+	font-size:20px;
+	margin-left: 20px;
+	margin-top: 40px;
+	
+	}
+#Cancel{
+	background-color: #FFFFFF;
+	border-color: #0000FF;
+	}
+#Sign_up{
+	background-color:  #FFFFFF;
+	border-color: #0000FF;
+}
+.buttonuphead{
+		margin-left: 238px;
+	}

@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+#like{
+	width: 32px;
+	height: 28px;
+	background-image: url(images/like.png);
+	no-repeat 0 0;
+	text-indent: -999px;
+	overflow: hidden;
+	white-space: nowrap;
+	}
+	
+	
+	submit {
+	height: 36px;
+	width: auto;
+	border: 1px solid #7BC574;
+	border-radius: 2px;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	}
+	
+	
+	.pic{
+	width: 260px;
+	float: left;
+	margin-right: 0px;
+	margin-left: 10px;
+		}
+	.icon{
+	margin-top: 10px;	
+	
+	}
